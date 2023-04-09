@@ -7,7 +7,6 @@ int green2 = 10;
 int delaytime = 200;
 
 void setup()
- 
 {
  
   pinMode(greenLed, OUTPUT);

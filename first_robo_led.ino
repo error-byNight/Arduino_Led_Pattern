@@ -15,8 +15,7 @@ void setup()
   pinMode(rgbLed, OUTPUT);
   pinMode(green2, OUTPUT);
 }
-void loop()
- 
+void loop() 
 {
   digitalWrite(greenLed, HIGH);
   digitalWrite(green2, HIGH);

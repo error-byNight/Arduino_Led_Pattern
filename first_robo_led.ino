@@ -7,6 +7,7 @@ int green2 = 10;
 int delaytime = 200;
 
 void setup()
+ 
 {
  
   pinMode(greenLed, OUTPUT);
@@ -16,6 +17,7 @@ void setup()
   pinMode(green2, OUTPUT);
 }
 void loop()
+ 
 {
   digitalWrite(greenLed, HIGH);
   digitalWrite(green2, HIGH);
